@@ -40,7 +40,7 @@
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/ajaykumar001)
 - 💬 Ask me about MERN, Python, PostgreSQL, or tech internships!
-- 📫 Email: ajay.dev.contact@gmail.com *(change this to your actual email)*
+- 📫 Email: ajaykumar02012004@gmail.com *(change this to your actual email)*
 
 ---
 
